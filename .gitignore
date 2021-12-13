@@ -1,2 +1,5 @@
 # MAC hidden file
 .DS_Store
+.ipynb_checkpoints
+tmp
+models
